@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0px;
+    background-color: azure;
+}
+#form{
+    font-size: 27px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 59px 225px;
+    color: #0c7575;
+}
+ h1{
+    font-size: 73px;
+    text-align: center;
+    margin: 34px 90px;
+    color: #08969e;
+}
+#form input {
+    border-radius: 7px;
+    border: 0px;
+    text-align: center;
+    width: 450px;
+    background-color: #deecec;
+    height: 34px;
+    font-size: size;
+    font-size: 21px;
+}
+#form label span{
+    font-variant: petite-caps;
+}
+#submit{
+    font-variant: unicase;
+    font-size: 21px;
+    height: 56px;
+    margin: 13px;
+    cursor: pointer;
+}

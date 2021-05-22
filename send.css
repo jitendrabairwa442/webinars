@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: #dcd3c4;
+    border-radius: 6px;
+}
+.submit{
+    font-size: 33px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 408px;
+    background-color: #f9f3eb;
+}
